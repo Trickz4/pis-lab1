@@ -10,6 +10,8 @@ namespace lab
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Pozdrav svijete.");
+
         }
     }
 }
