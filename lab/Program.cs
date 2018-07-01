@@ -11,6 +11,9 @@ namespace lab
         static void Main(string[] args)
         {
             Console.WriteLine("Pozdrav svijete.");
+            
+            
+            Console.WriteLine("pozdrav i tebi Monika.");
 
         }
     }
