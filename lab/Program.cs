@@ -14,6 +14,9 @@ namespace lab
             
             
             Console.WriteLine("pozdrav i tebi Monika.");
+            
+            
+            //komentar issue
 
         }
     }
