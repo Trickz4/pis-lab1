@@ -8,5 +8,7 @@ namespace lab
 {
     class NewClass
     {
+        
+            Console.WriteLine("promjenaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa");
     }
 }
